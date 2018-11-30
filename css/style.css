@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;}
+body{}
+div{}
+.container{/*! color: azure; */background: #46629E;max-width: 100%;display: block;height: 100px;}
+.leftpart{float: keft;float: left;display: block;width: 35%;/*! margin: 45px; */text-align: center;margin-top: 35px;margin-left: 26px;}
+.logo{color: #fff;text-decoration: none;font-size: 42px;}
+.rightpart{/*! float: right; *//*! float: left; */display: block;/*! text-decoration: none; *//*! text-decoration: none; *//*! display: inline-block; *//*! margin: 20px; */width: 60%;display: block;margin-left: 600px;padding-top: 0;padding-left: 249px;}
+form{display: block;}
+.rightpart ul {/*! width: 100%; *//*! width: 40%; */width: ;}
+.rightpart ul li {display: block;float: left;margin-top: 40px;margin-left: 15px;}
+.rightpart ul li span {font-size: 10px;color: #fff;margin-left: 0;}
+.rightpart ul li input{color: #fcfcfc;/*! background-color: #46629E; */}
+.rightpart ul li span {display: block;}
+.rightpart ul li input{display: block;}
+.rightpart ul li input{}
+.forgetbtn{font-size: 12px;color: #ffffff80;/*! border-color: black; *//*! border: 1px solid black; */}
+.loginbtn{width: 54px;background-color: #46629E;margin-top: 11px;/*! padding-top: 20px; */border: 1px solid black;}
